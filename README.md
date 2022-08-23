@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JinamKeniya28
-- 👀 I’m still new to this world of computers and programming, but am learning my through
-- 🌱 I’m currently learning the basics of programming and web development
+- 👀 I’m still new to this world of computers and programming, but am learning my through!
+- 🌱 I’m currently learning the basics of programming and web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
